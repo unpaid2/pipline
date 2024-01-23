@@ -1,8 +1,1 @@
-piplne{
-    agent any
-        stages{
-            stage{
-                stapes('Build maven')
-            }
-        }
-}
+
